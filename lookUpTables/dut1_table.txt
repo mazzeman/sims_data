@@ -4,7 +4,7 @@
 #
 # on 16 November 2015
 #
-# MJD(UTC); UT1-UTC; uncertainty on UT1-UTC
+# MJD(UTC); UT1-UTC (sec); uncertainty on UT1-UTC
 48622.00 -0.1251688  0.0000207
 48623.00 -0.1269580  0.0000203
 48624.00 -0.1287025  0.0000200
