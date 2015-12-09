@@ -4,6 +4,9 @@
 #
 # on 16 November 2015
 #
+# data is from the finals.data file
+# readme.finals explains the original schema
+#
 # MJD(UTC); UT1-UTC (sec); uncertainty on UT1-UTC
 48622.00 -0.1251688  0.0000207
 48623.00 -0.1269580  0.0000203
