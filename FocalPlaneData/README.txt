@@ -20,9 +20,10 @@ perturbations due to the pointing of the telescope.  The PhoSim version used
 was 3.7.9
 
 The CatSimData directory contains a text file which includes the
-CatSim-predicted positions of the sources from PhoSimData/.  Note: because the
-optical model in obs_lsstSim will eventually be updated to include a better
-model of refraction through the r filter, only the RA, Dec columns from this
-catalog should be used.  These RA, Dec columns are the RA, Dec directly passed
-into PhoSim (so: they are "observed" RA, Dec, which differs from ICRS RA, Dec by
-terms which represent the motion of the Earth).
+CatSim-predicted positions of the sources from PhoSimData/.
+It also contains the InstanceCataog used to generate PhoSimData/.
+Note: because the optical model in obs_lsstSim will eventually be updated to
+include a better model of refraction through the r filter, only the RA, Dec
+columns from this catalog should be used.  These RA, Dec columns are the RA,
+Dec directly passed into PhoSim (so: they are "observed" RA, Dec, which
+differs from ICRS RA, Dec by terms which represent the motion of the Earth).
